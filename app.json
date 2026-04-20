@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Simple Tournament and Slot Booking",
+    "slug": "simple-tournament-slot-booking",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "userInterfaceStyle": "light"
+  }
+}
